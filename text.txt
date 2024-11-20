@@ -1,0 +1,5 @@
+Documentation-Enikő és Panna
+
+2024.11.20-A github és a HTML sikeres létrehozása(Panna)
+2024.11.20-A trello és figma sikeres elkészítése(Enikő)
+2024.11.20-"base1.1" elkészítése, footer alapjainak megadása(Panna és Enikő)
